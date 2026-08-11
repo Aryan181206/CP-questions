@@ -6,24 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 12 |
+| 57 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (9)
+- [constructive algorithms](#constructive-algorithms) (11)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [games](#games) (2)
-- [greedy](#greedy) (15)
-- [implementation](#implementation) (12)
-- [math](#math) (26)
-- [number theory](#number-theory) (6)
+- [games](#games) (4)
+- [greedy](#greedy) (17)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (20)
+- [math](#math) (31)
+- [number theory](#number-theory) (8)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (6)
-- [strings](#strings) (4)
+- [strings](#strings) (6)
 
 ---
 
@@ -32,10 +34,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 
 ### combinatorics
@@ -53,12 +59,20 @@
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 | 2227C | [Snowfall](https://codeforces.com/contest/2227/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2227/C%20-%20Snowfall/solution.cpp) |
+| 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 
 ### dp
 
@@ -70,8 +84,10 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
+| 2228B | [Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2228/B%20-%20Remilia%20Plays%20Soku/solution.cpp) |
 
 ### greedy
 
@@ -79,6 +95,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
+| 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
@@ -92,23 +109,39 @@
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 | 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
+| 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2211A | [Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2211/A%20-%20Antimedian%20Deletion/solution.cpp) |
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+| 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
+| 2228B | [Remilia Plays Soku](https://codeforces.com/contest/2228/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2228/B%20-%20Remilia%20Plays%20Soku/solution.cpp) |
 
 ### math
 
@@ -124,10 +157,15 @@
 | 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
 | 1717A | [Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1717/A%20-%20Madoka%20and%20Strange%20Thoughts/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
+| 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
@@ -148,6 +186,8 @@
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1717A | [Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1717/A%20-%20Madoka%20and%20Strange%20Thoughts/solution.cpp) |
+| 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
@@ -174,6 +214,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 525A | [Vitaliy and Pie](https://codeforces.com/contest/525/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/525/A%20-%20Vitaliy%20and%20Pie/solution.cpp) |
+| 855A | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/855/A%20-%20Tom%20Riddle's%20Diary/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
