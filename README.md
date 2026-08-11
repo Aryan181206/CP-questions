@@ -6,15 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 15 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (4)
+- [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (4)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (4)
+- [math](#math) (11)
+- [number theory](#number-theory) (3)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -22,19 +28,81 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
+| 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
+| 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
+| 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.cpp) |
+| 1717A | [Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1717/A%20-%20Madoka%20and%20Strange%20Thoughts/solution.cpp) |
+| 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1861A | [Prime Deletion](https://codeforces.com/contest/1861/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1861/A%20-%20Prime%20Deletion/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2145A | [Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2145/A%20-%20Candies%20for%20Nephews/solution.cpp) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1717A | [Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1717/A%20-%20Madoka%20and%20Strange%20Thoughts/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 
 ---
 
