@@ -1,0 +1,18 @@
+#include<bits/stdc++.h>
+using namespace std ;
+int main(){
+    int t ; cin >> t;
+    while(t--){
+        // totla sons - 3
+        int n ; cin >> n ; // candles
+ 
+        if (n%3==0){
+            cout<<0<<endl ;
+            
+        }else{
+ 
+        int candle_required = 3 - (n%3) ;
+        cout<< candle_required <<endl ;
+        }
+    }
+}
