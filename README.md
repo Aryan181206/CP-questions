@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 5 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
@@ -43,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 
 ### number theory
