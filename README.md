@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### brute force
 
