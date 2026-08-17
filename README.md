@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (1)
@@ -25,6 +25,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### brute force
 
