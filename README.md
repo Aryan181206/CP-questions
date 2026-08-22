@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 10 |
+| 10 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (3)
 - [dp](#dp) (2)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (1)
 - [math](#math) (3)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 
 ### brute force
@@ -86,6 +87,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 
