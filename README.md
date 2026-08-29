@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 16 |
+| 23 | 16 |
 
 ---
 
@@ -20,9 +20,9 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (5)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (12)
+- [greedy](#greedy) (13)
 - [implementation](#implementation) (4)
-- [math](#math) (10)
+- [math](#math) (11)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (9)
@@ -99,6 +99,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1791G2 | [Teleporters (Hard Version)](https://codeforces.com/contest/1791/problem/G2) | 1900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G2%20-%20Teleporters%20(Hard%20Version)/solution.cpp) |
@@ -126,6 +127,7 @@
 |---|---------|------------|----------|
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
