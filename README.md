@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 18 |
+| 31 | 18 |
 
 ---
 
@@ -14,17 +14,17 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (4)
-- [bitmasks](#bitmasks) (3)
+- [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (7)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (16)
 - [implementation](#implementation) (6)
-- [math](#math) (11)
-- [number theory](#number-theory) (3)
+- [math](#math) (12)
+- [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (11)
 - [strings](#strings) (2)
@@ -58,6 +58,7 @@
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 
 ### brute force
 
@@ -83,6 +84,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 
 ### data structures
 
@@ -155,6 +157,7 @@
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 
@@ -165,6 +168,7 @@
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
+| 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 
 ### shortest paths
 
