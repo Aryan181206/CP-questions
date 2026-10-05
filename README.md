@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 18 |
+| 36 | 18 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [data structures](#data-structures) (3)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [data structures](#data-structures) (4)
 - [dp](#dp) (7)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (19)
@@ -29,7 +29,7 @@
 - [sortings](#sortings) (14)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -85,6 +85,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 
 ### data structures
@@ -92,6 +93,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
 
@@ -222,6 +224,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
