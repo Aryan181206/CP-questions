@@ -6,27 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 18 |
+| 38 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (5)
+- [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (4)
+- [data structures](#data-structures) (5)
 - [dp](#dp) (7)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (21)
 - [implementation](#implementation) (8)
-- [math](#math) (14)
+- [math](#math) (15)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (14)
+- [sortings](#sortings) (15)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (5)
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1742/E%20-%20Scuza/solution.cpp) |
 | 1791G2 | [Teleporters (Hard Version)](https://codeforces.com/contest/1791/problem/G2) | 1900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G2%20-%20Teleporters%20(Hard%20Version)/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
@@ -93,6 +94,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1790D | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1790/D%20-%20Matryoshkas/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
@@ -124,7 +126,9 @@
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
 | 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
+| 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1742/E%20-%20Scuza/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
+| 1790D | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1790/D%20-%20Matryoshkas/solution.cpp) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1791G2 | [Teleporters (Hard Version)](https://codeforces.com/contest/1791/problem/G2) | 1900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G2%20-%20Teleporters%20(Hard%20Version)/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.cpp) |
@@ -160,6 +164,7 @@
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.cpp) |
+| 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1742/E%20-%20Scuza/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
@@ -192,6 +197,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
+| 1790D | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1790/D%20-%20Matryoshkas/solution.cpp) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1791G2 | [Teleporters (Hard Version)](https://codeforces.com/contest/1791/problem/G2) | 1900 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1791/G2%20-%20Teleporters%20(Hard%20Version)/solution.cpp) |
 | 1807G1 | [Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1807/G1%20-%20Subsequence%20Addition%20(Easy%20Version)/solution.cpp) |
