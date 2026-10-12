@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 18 |
+| 45 | 18 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (6)
 - [dp](#dp) (7)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [implementation](#implementation) (11)
 - [math](#math) (17)
 - [number theory](#number-theory) (4)
@@ -88,6 +88,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1635C | [Differential Sorting](https://codeforces.com/contest/1635/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1635/C%20-%20Differential%20Sorting/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
@@ -129,6 +130,7 @@
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
+| 1635C | [Differential Sorting](https://codeforces.com/contest/1635/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1635/C%20-%20Differential%20Sorting/solution.cpp) |
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.cpp) |
 | 1704C | [Virus](https://codeforces.com/contest/1704/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/C%20-%20Virus/solution.cpp) |
 | 1729D | [Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1729/D%20-%20Friends%20and%20the%20Restaurant/solution.cpp) |
