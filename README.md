@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 18 |
+| 49 | 18 |
 
 ---
 
@@ -21,12 +21,12 @@
 - [data structures](#data-structures) (7)
 - [dp](#dp) (7)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (29)
 - [implementation](#implementation) (12)
 - [math](#math) (19)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (17)
+- [sortings](#sortings) (18)
 - [strings](#strings) (4)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (8)
@@ -132,6 +132,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.cpp) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
@@ -221,6 +222,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1704C | [Virus](https://codeforces.com/contest/1704/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1704/C%20-%20Virus/solution.cpp) |
 | 1729D | [Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1729/D%20-%20Friends%20and%20the%20Restaurant/solution.cpp) |
