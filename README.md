@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 18 |
+| 53 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (13)
@@ -43,6 +43,7 @@
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### binary search
 
