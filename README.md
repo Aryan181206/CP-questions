@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 20 |
+| 60 | 20 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (13)
-- [math](#math) (20)
-- [number theory](#number-theory) (5)
+- [math](#math) (21)
+- [number theory](#number-theory) (6)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (18)
 - [strings](#strings) (6)
@@ -210,6 +210,7 @@
 |---|---------|------------|----------|
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.cpp) |
@@ -235,6 +236,7 @@
 |---|---------|------------|----------|
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
