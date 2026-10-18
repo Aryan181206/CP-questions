@@ -16,40 +16,26 @@ const int MOD=1e9+7;
 const int INF=1e18;
 const double PI=3.14159265358979323846;
 const int LIMIT=3e6;
- 
+ 
 int main(){
     test{
+        
         string s ;
-        cin >> s;
-        int n = s.size();
+        cin >>s ;
         
-        int cnt = 1 ;
-        bool inc = false ;
-        bool dec = false;
-        
-        //set<string> unique ;
-        set<int> st ;
-        
-        for(int i = 1 ; i<n ;i++){
-            if(s[i]!=s[i-1]) cnt++;
+        int ans =1 ;
+        if(s.find("010")!= string::npos || s.find("101") !=string::npos)
+        {
+            ans++;
         }
-        st.insert(cnt);
         
-        for(int i=1 ;i<n-1 ;i++){
-            if(s[i-1]==s[i+1]){
-                if(s[i]!=s[i-1]){
-                    st.insert(cnt-2);
-                }
-                else{
-                    st.insert(cnt+2);
-                }
-            }
+        if(s.find("000")!= string::npos || s.find("111") !=string::npos)
+        {
+            ans++;
+        }
         
-       
-    }
-     cout << st.size() << endl ;
+        cout << ans << endl;
+        
+        
     }
 }
- 
- 
- 
