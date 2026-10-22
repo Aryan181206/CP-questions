@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 21 |
+| 66 | 21 |
 
 ---
 
@@ -18,15 +18,15 @@
 - [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (8)
-- [data structures](#data-structures) (8)
+- [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (8)
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (31)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (13)
-- [math](#math) (24)
+- [implementation](#implementation) (14)
+- [math](#math) (25)
 - [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (18)
@@ -117,6 +117,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.cpp) |
@@ -204,6 +205,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
@@ -222,6 +224,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
