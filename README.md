@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 21 |
+| 74 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (11)
+- [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (14)
@@ -51,6 +51,7 @@
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### binary search
 
