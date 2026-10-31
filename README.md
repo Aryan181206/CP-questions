@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 75 | 21 |
+| 76 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (13)
+- [Uncategorized](#uncategorized) (14)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (14)
@@ -53,6 +53,7 @@
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
+| 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Aryan181206/CP-questions/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 
 ### binary search
 
